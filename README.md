@@ -16,7 +16,7 @@
 [<img align="left" alt="Febrianto Bagus Setiawan | Website" width="28px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" />][website]
 [<img align="left" alt="Febrianto Bagus Setiawan | YouTube" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
 [<img align="left" alt="Febrianto Bagus Setiawan | Twitter" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/934px-Twitter-logo.svg.png" />][twitter]
-[<img align="left" alt="Febrianto Bagus Setiawan | Instagram" width="28px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/934px-Twitter-logo.svg.png]" />][instagram]
+[<img align="left" alt="Febrianto Bagus Setiawan | Instagram" width="28px" src="[https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg]" />][instagram]
 [<img align="left" alt="Febrianto Bagus Setiawan | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br />
