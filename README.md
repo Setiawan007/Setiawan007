@@ -20,7 +20,6 @@
 [<img align="left" alt="Febrianto Bagus Setiawan | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br />
-<br />
 
 ### Languages and Tools
 
@@ -28,13 +27,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/xcode.png"/>
 
 <br />
-<br />
 
 ### My Github stats:
 ![github stats](https://github-readme-stats.vercel.app/api?username=Setiawan007&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Setiawan007&layout=compact&theme=nightowl)
 
-<br />
 <br />
 
 ### Thanks For Visit
