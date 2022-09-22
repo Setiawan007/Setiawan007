@@ -48,6 +48,6 @@
 [github]: https://github.com/Setiawan007
 [instagram]: https://www.instagram.com/setiawan.007
 [email]: mailto:febriantobagussetiawan@gmail.com
-[tiktok]: https://tiktok.com/setiawan.007
+[tiktok]: https://tiktok.com/@setiawan.007
 
 
