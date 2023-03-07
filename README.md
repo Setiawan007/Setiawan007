@@ -20,6 +20,14 @@
 [<img align="left" alt="Febrianto Bagus Setiawan | TikTok" width="28px" src="https://cdn.pixabay.com/photo/2021/01/30/06/42/tiktok-5962992_960_720.png" />][tiktok]
 [<img align="left" alt="Febrianto Bagus Setiawan | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
+<br /> <br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=andes2912&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+
+
 <br />
 
 ### Languages and Tools
