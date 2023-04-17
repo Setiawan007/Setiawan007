@@ -4,7 +4,7 @@
 [![Youtube](https://img.shields.io/static/v1?label=Setiawan007&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/IdSetiawan007?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/Setiawan007?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: Febrianto Bagus Setiawan](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/febrianto-bagus-setiawan-45271b18a/)][linkedin]
+[![Linkedin: Febrianto Bagus Setiawan](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/setiawan007/)][linkedin]
 
 - 🔭 &ensp;I’m currently working on Flutter, Python & PHP ❤️ projects
 - 🌱 &ensp;I’m currently learning React 
