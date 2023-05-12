@@ -1,6 +1,6 @@
 <h1 align="center"> Hi <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />, I'm <a href="https://www.instagram.com/setiawan.007">☑ Febrianto Bagus Setiawan!</a></h1>
-<h3 align="center">Indonesian Developer </h3>
 
+![Setiawan007](https://cardivo.vercel.app/api?name=Febrianto%20Bagus%20Setiawan&description=a.k.a.%20Setiawan007%20|%20Indonesian%20Developers&image=https://avatars.githubusercontent.com/u/33013375?v=4&backgroundColor=%23ecf0f1)
 [![Youtube](https://img.shields.io/static/v1?label=Setiawan007&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/IdSetiawan007?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/Setiawan007?logo=GitHub&style=for-the-badge)][github]
