@@ -21,12 +21,10 @@
 [<img align="left" alt="Febrianto Bagus Setiawan | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br /> <br/>
-<!--
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Setiawan007&rank=-C,-B&column=8&theme=monokai&no-frame=true"/>
 </a>
--->
 
 
 <br />
